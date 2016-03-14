@@ -14,7 +14,8 @@ classdef TemperatureAnalyze2
         MaximumTemperatureChip;
         MaximumTemperatureCuttingZone;
         HeatCarriedAwayByChip;
-        HeatFluxAwayFromToolTip;
+        HeatFluxAwayFromToolTip
+        ;
         TotalPowerProduced;
         InternalEnergyTool;
         CuttingForceParallelToolFace;
